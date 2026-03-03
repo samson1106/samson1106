@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- ================= FIRE SEQUENTIAL INTRO ================= -->
 
-<!--
-**samson1106/samson1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=2200&pause=900&color=FF6A00&center=true&vCenter=true&width=1000&lines=Passionate+about+tech."/>
+</p>
 
-Here are some ideas to get you started:
+<!-- ========================================================= -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"> 👋🏻 Hi, I'm Samson Barla</h1>
+<h3 align="center">  DSA • ML  • Diving into Data Science • Mathematics Driven Developer </h3>
+
+---
+
+## 🧠 Player Profile
+
+```bash
+I'm a 2nd year Computer Science and Engineering student at NSUT, focusing on building strong fundamentals and,
+continuously upskilling in DSA, Machine Learning, and Data Science to solve real-world  problems. 
+
+
