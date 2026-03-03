@@ -15,6 +15,7 @@
 
 ```bash
 I'm a 2nd year Computer Science and Engineering student at NSUT, focusing on building strong fundamentals and,
-continuously upskilling in DSA, Machine Learning, and Data Science to solve real-world  problems. 
+continuously upskilling in DSA, Machine Learning, and Data Science to solve real-world  problems.
+
 
 
