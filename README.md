@@ -9,7 +9,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center"> 👋🏻 Hi, I'm Samson Barla</h1>
-<h3 align="center">  DSA • ML  • Diving into Data Science • Mathematics Driven Developer </h3>
+<h3 align="center">  DSA • ML  • Diving into Data Science </h3>
 
 ---
 
